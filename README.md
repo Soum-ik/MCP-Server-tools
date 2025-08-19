@@ -1,4 +1,4 @@
-# X-Automator
+# X-Automator.
 
 X-Automator is an advanced automation tool designed to streamline repetitive tasks and enhance productivity. It leverages AI-driven workflows to simplify complex processes, making it an essential tool for developers and businesses alike.
 
